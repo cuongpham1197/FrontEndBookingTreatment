@@ -1,0 +1,120 @@
+{
+    "homeheader": {
+        "treatment": "Treatment",
+        "search-staff": "Search staff  by treatment",
+        "spa-facility": "Shop",
+        "select-shop": "Choose a shop",
+        "Staff": "Staff",
+        "select-staff": "Choose staff",
+        "fee": "Treatment fee",
+        "check-treatment": "Overall treatment",
+        "login": "Login",
+        "welcome": "Welcome, "
+    },
+    "register-user": {
+        "add-user": "Create a new account",
+        "register": "Register"
+    },
+    "banner": {
+        "title1": "WEBSITE BOOKING",
+        "title2": "BEAUTY TREATMENT ONLINE",
+        "child1": "Treatment details",
+        "child2": "Tư vấn online",
+        "child3": "Contact with staff",
+        "child4": "List of treatments",
+        "good-spa-facility": "Good spa facilities"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "User System",
+            "manage-staff": "Manage staffs",
+            "manage-admin": "Manage admins",
+            "crud": "User table",
+            "crud-redux": "Manage users",
+            "shop": "SShops",
+            "manage-shop": "Manage shops",
+            "treatment": "Treatments",
+            "manage-treatment": "Manage treatments"
+        },
+        "staff": {
+            "manage-schedule": "Manage staff's schedule",
+            "manage-customer": "Manage staff's customer",
+            "statistic": "Statistics",
+            "statistic-revenue": "Manage revenue"
+        }
+    },
+    "manage-user": {
+        "add": "Add a new user",
+        "email": "Email",
+        "password": "Password",
+        "first-name": "First name",
+        "last-name": "Last name",
+        "phone-number": "Phone number",
+        "address": "Address",
+        "gender": "Gender",
+        "position": "Position",
+        "role": "Role",
+        "save": "Save user",
+        "image": "Avatar",
+        "edit": "Save changes",
+        "add-new-user": "Add new user",
+        "upload-image": "Upload image"
+    },
+    "homepage": {
+        "good-staff": "Good staffs",
+        "more-infor": "More",
+        "treatment-popular": "Popular treatments"
+    },
+    "manage-schedule": {
+        "title": "Manage staff's treatment plan",
+        "choose-staff": "Choose staff",
+        "choose-date": "Choose date",
+        "save": "Save information"
+    },
+    "customer": {
+        "detail-staff": {
+            "schedule": "Schedule",
+            "no-schedule": "The staff has no schedule",
+            "choose": "Choose ",
+            "book-free": " and free booking"
+        },
+        "extra-infor-staff": {
+            "text-address": "Address of doing treatment",
+            "price": "Treatment price",
+            "detail": "Details",
+            "payment": "The customer can pay the fee in the form of: ",
+            "hide-price": "Hide price list"
+        },
+        "booking-modal": {
+            "title": "Treatment appointment information ",
+            "fullName": "Full name",
+            "phoneNumber": "Phone number",
+            "email": "Email",
+            "address": "Address",
+            "need": "Need for treatment",
+            "birthday": "Date of birth",
+            "gender": "Gender",
+            "btnConfirm": "Confirm",
+            "btnCancel": "Cancel",
+            "priceBooking": "Free booking",
+            "price": "Price: "
+        }
+    },
+    "admin": {
+        "manage-staff": {
+            "title": "Create information",
+            "select-staff": "Select staff",
+            "intro": "Introduction",
+            "add": "Add information",
+            "save": "Save",
+            "price": "Price",
+            "payment": "Payment",
+            "province": "Province",
+            "nameShop": "Shop name",
+            "addressShop": "Shop address",
+            "note": "Note",
+            "treatment": "Choose a treatment",
+            "select-shop": "Choose a shop"
+        }
+    }
+}

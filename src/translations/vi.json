@@ -1,0 +1,120 @@
+{
+    "homeheader": {
+        "treatment": "Liệu trình",
+        "search-staff": "Tìm nhân viên theo liệu trình",
+        "spa-facility": "Cửa hàng spa",
+        "select-shop": "Chọn cửa hàng",
+        "Staff": "Nhân viên tốt",
+        "select-staff": "Chọn Nhân viên tốt",
+        "fee": "Phí liệu trình",
+        "check-treatment": "Liệu trình tổng quát",
+        "login": "Đăng nhập",
+        "welcome": "Xin chào "
+    },
+    "register-user": {
+        "add-user": "Đăng kí người dùng mới",
+        "register": "Đăng kí"
+    },
+    "banner": {
+        "title1": "TRANG WEB ĐẶT",
+        "title2": "LIỆU TRÌNH ONLINE",
+        "child1": "Xem liệu trình",
+        "child2": "Tư vấn online",
+        "child3": "Liên lạc với nhân viên",
+        "child4": "Danh sách liệu trình",
+        "good-spa-facility": "Cửa hàng Spa nổi bật"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Người dùng",
+            "manage-staff": "Quản lý nhân viên",
+            "manage-admin": "Quản lý admin",
+            "crud": "Bảng người dùng",
+            "crud-redux": "Quản lý người dùng",
+            "shop": "Cửa hàng",
+            "manage-shop": "Quản lý cửa hàng",
+            "treatment": "Liệu trình",
+            "manage-treatment": "Quản lý liệu trình"
+        },
+        "staff": {
+            "manage-schedule": "Quản lý lịch hẹn nhân viên",
+            "manage-customer": "Quản lý khách hàng",
+            "statistic": "Thống kê",
+            "statistic-revenue": "Quản lý doanh thu"
+        }
+    },
+    "manage-user": {
+        "add": "Thêm mới người dùng",
+        "email": "Email",
+        "password": "Mật khẩu",
+        "first-name": "Tên",
+        "last-name": "Họ",
+        "phone-number": "Số điện thoại",
+        "address": "Địa chỉ",
+        "gender": "Giới tính",
+        "position": "Chức danh",
+        "role": "Vai trò",
+        "save": "Lưu người dùng",
+        "image": "Ảnh đại diện",
+        "edit": "Lưu thay đổi",
+        "add-new-user": "Thêm người dùng mới",
+        "upload-image": "Tải ảnh"
+    },
+    "homepage": {
+        "good-staff": "nhân viên nổi bật",
+        "more-infor": "Xem thêm",
+        "treatment-popular": "Liệu trình phổ biến"
+    },
+    "manage-schedule": {
+        "title": "Quản lý kế hoạch liệu trình của nhân viên",
+        "choose-staff": "Chọn nhân viên",
+        "choose-date": "Chọn ngày",
+        "save": "Lưu thông tin"
+    },
+    "customer": {
+        "detail-staff": {
+            "schedule": "Lịch khám",
+            "no-schedule": "Nhân viên không có lịch khám",
+            "choose": "Chọn ",
+            "book-free": " và đặt online miễn phí"
+        },
+        "extra-infor-staff": {
+            "text-address": "Địa chỉ thực hiên liệu trình",
+            "price": "Giá liệu trình",
+            "detail": "Chi tiết",
+            "payment": "Khách hàng có thể thanh toán bằng hình thức",
+            "hide-price": "Ẩn bảng giá"
+        },
+        "booking-modal": {
+            "title": "Thông tin đặt lịch liệu trình",
+            "fullName": "Họ và tên",
+            "phoneNumber": "Số điện thoại",
+            "email": "Email",
+            "address": "Địa chỉ liên lạc",
+            "need": "Nhu cầu liệu trình",
+            "birthday": "Ngày sinh",
+            "gender": "Giới tính",
+            "btnConfirm": "Xác nhận",
+            "btnCancel": "Hủy",
+            "priceBooking": "Miễn phí đặt lịch",
+            "price": "Giá liệu trình: "
+        }
+    },
+    "admin": {
+        "manage-staff": {
+            "title": "Tạo thông tin nhân viên",
+            "select-staff": "Chọn nhân viên",
+            "intro": "Thông tin giới thiệu:",
+            "add": "Tạo thông tin",
+            "save": "Lưu thông tin",
+            "price": "Giá",
+            "payment": "Phương thức thanh toán",
+            "province": "Tình/Thành phố",
+            "nameShop": "Tên cửa hàng",
+            "addressShop": "Địa chỉ cửa hàng",
+            "note": "Ghi chú",
+            "treatment": "Chọn liệu trình",
+            "select-shop": "Chọn cửa hàng"
+        }
+    }
+}
